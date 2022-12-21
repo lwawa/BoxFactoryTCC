@@ -1,0 +1,4 @@
+#Wed Nov 30 16:29:24 BRST 2022
+base.0=F\:\\download\\trabalho\\tcc\\jogo\\TCC1\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
